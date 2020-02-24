@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.task{
+  background-color: lightgray;
+  border: 1px grey solid;
+  border-radius: 5%;
+}
+.currentTask {
+  background-color:hsl(171, 100%, 41%) ;
+}
